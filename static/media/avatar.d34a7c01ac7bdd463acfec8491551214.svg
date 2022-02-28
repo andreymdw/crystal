@@ -1,0 +1,11 @@
+<svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="23" cy="23" r="23" fill="conic-gradient(from 180deg at 50% 50%, #FF643F 0deg, rgba(255, 255, 255, 0) 180deg, #FF643F 360deg)"/>
+    <path d="M23 8C23 8 15 13.0183 15 23C15 32.9817 23 38 23 38C23 38 31 32.9817 31 23C31 13.0183 23 8 23 8Z" fill="#FF643F"/>
+    <defs>
+        <radialGradient id="paint0_angular_140_939" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(23 23) rotate(90) scale(23)">
+            <stop stop-color="#FF643F"/>
+            <stop offset="0.5" stop-color="white" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+</svg>
+
